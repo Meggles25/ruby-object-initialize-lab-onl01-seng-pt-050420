@@ -1,4 +1,6 @@
 class Dog 
   
-  attr_accessor :Dog
+  attr_accessor :dog
+  
+  
   
